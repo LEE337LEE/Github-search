@@ -12,8 +12,8 @@ import 'rxjs/Rx';
 export class ProfileService {
 
     private username: string;
-    private clientId: '28ebbbea6f879dcce9cb';
-    private clientSecret: 'a59a56247fb62c76384957ca0158df225c7d569d';
+    private clientId: 'Iv1.1e88e2471c99a994';
+    private clientSecret: '262c39ae0189c6f074352025ec014ab745e58c88';
   constructor(private http:HttpClient) {
 
     console.log("Github Service is ready");
